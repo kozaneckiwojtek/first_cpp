@@ -5,6 +5,6 @@ int policz (int a, int b){
 }
 int main() {
     cout << "Hello, World!" << endl;
-    cout << "W pierwszym branchu: 2 * 3 ="<<" " <<policz(2,3)<< endl;
+    cout << "W drugim branchu: 2 * 3 ="<<" " <<policz(2,3)<< endl;
     return 0;
 }
